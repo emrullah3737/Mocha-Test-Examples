@@ -1,0 +1,16 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing Examples",
+  "main": "test1.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "url": "https://github.com/emrullah3737/Mocha-Test-Examples.git",
+  "author": "Emrullah Karataş",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
